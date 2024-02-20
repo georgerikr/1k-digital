@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Pakett 1",
+      "icon": "products/img/icon-1.png",
+      "description": "Integer faucibus blandit eros, id iaculis erat",
+      "price": 99
+    },
+    {
+      "name": "Pakett 2",
+      "icon": "products/img/icon-2.png",
+      "description": "Orci varius natoque penatibus et magnis dis parturient montes",
+      "price": 129
+    },
+    {
+      "name": "Pakett 3",
+      "icon": "products/img/icon-3.png",
+      "description": "Vivamus vestibulum lacus sit amet mi pulvinar ornare",
+      "price": 199
+    }
+  ]
+}
